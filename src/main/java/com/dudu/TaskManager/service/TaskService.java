@@ -7,7 +7,6 @@ import com.dudu.TaskManager.dto.TaskRequest;
 import com.dudu.TaskManager.dto.TaskResponse;
 import com.dudu.TaskManager.model.Task;
 import com.dudu.TaskManager.repository.TaskRepository;
-import jakarta.validation.Valid;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;

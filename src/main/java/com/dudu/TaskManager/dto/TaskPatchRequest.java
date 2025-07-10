@@ -2,7 +2,6 @@ package com.dudu.TaskManager.dto;
 
 import com.dudu.TaskManager.model.Status;
 import com.fasterxml.jackson.annotation.JsonInclude;
-import jakarta.validation.constraints.*;
 
 import java.time.LocalDate;
 
